@@ -1,0 +1,19 @@
+[
+    {
+        "firstName": "Mohamed",
+        "lastName": "Ahmed",
+        "email": "lovelyboy0066@yahoo.com",
+        "sex": "Male",
+        "country": "Egypt",
+        "username": "mohamed",
+        "password": "$2y$10$NMDaHvJJurLwOSI4PoOPDOQt.MSzLfPUu.dilVdpBkga.qrh25r1m",
+        "address": "dsgsdg",
+        "department": "OpenSource",
+        "skills": [
+            "JS",
+            "MySQL"
+        ],
+        "profilePath": "\/assets\/images\/1762695643_691099db60aa2.jpg",
+        "role":"admin"
+    }
+]
