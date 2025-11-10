@@ -1,0 +1,34 @@
+[
+    {
+        "firstName": "Mohamed",
+        "lastName": "Ahmed",
+        "email": "lovelyboy0066@yahoo.com",
+        "sex": "Male",
+        "country": "Egypt",
+        "username": "mohamed",
+        "password": "$2y$10$NMDaHvJJurLwOSI4PoOPDOQt.MSzLfPUu.dilVdpBkga.qrh25r1m",
+        "address": "dsgsdg",
+        "department": "OpenSource",
+        "skills": [
+            "JS",
+            "MySQL"
+        ],
+        "profilePath": "\/assets\/images\/1762695643_691099db60aa2.jpg"
+    },
+    {
+        "firstName": "Mohamed",
+        "lastName": "Ahmed",
+        "email": "m.ahmed141@hotmail.com",
+        "sex": "male",
+        "country": "Egypt",
+        "address": "sdfssdfs",
+        "username": "sad",
+        "department": "OpenSource",
+        "password": "$2y$10$r0b.XDXTc5j4M7OI8eNM1.jF7SoxDYYtjE1rROH\/1eZkLd7mm3Pku",
+        "skills": [
+            "JS",
+            "MySQL"
+        ],
+        "profilePath": "\/assets\/images\/1762777112_6911d81863a98.avif"
+    }
+]
